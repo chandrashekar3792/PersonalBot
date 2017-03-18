@@ -1,0 +1,23 @@
+{
+  "name": "technicalbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandrashekar3792/PersonalBot.git"
+  },
+  "author": "chandrashekar s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrashekar3792/PersonalBot/issues"
+  },
+  "homepage": "https://github.com/chandrashekar3792/PersonalBot",
+  "dependencies": {
+    "google": "^2.1.0",
+    "stackexchange": "^0.4.0"
+  }
+}
